@@ -1,0 +1,4 @@
+#Sat Jul 04 20:06:57 COT 2020
+base.0=C\:\\Users\\juano\\Documents\\Juan\\Desarrollo APPS\\Mascotas\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
