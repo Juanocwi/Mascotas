@@ -6,13 +6,17 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643c3d0a-c062-4f4a-9a84-95af4edb7925" name="Default Changelist" comment="" />
+    <list default="true" id="643c3d0a-c062-4f4a-9a84-95af4edb7925" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="r4kje6eyuggeor6l" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="DispositivoAndroid_API_27" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -37,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="DispositivoAndroid_API_27" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-05T01:06:54.798Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-08T17:14:55.523Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -117,10 +121,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="369" y="7" key="CommitChangelistDialog2" timestamp="1594228791028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594228791028" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594155924905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594155924905" />
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1594228735001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594228735001" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1594228735001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594228735001" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1594228735001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594228735001" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1594228735001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594228735001" />
     <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594155895279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
